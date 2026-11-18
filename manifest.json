@@ -1,0 +1,24 @@
+{
+  "name": "Práctica Técnica .com — GICM",
+  "short_name": "PrácticaTécnica",
+  "description": "Plataforma Educativa y Técnica Oficial GICM: Asignaturas MEP, Especialidades CTP, Universidades y Licencias MOPT.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00000000",
+  "theme_color": "#0284C7",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
